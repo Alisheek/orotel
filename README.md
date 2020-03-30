@@ -1,0 +1,2 @@
+# orotel
+Device configuration
